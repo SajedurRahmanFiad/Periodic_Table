@@ -349,7 +349,7 @@ ELEMENTS_DATA = {
     "Cl": {
         "appearance": "pale yellow-green gas",
         "name": _("Chlorine"),
-        "atomic-mass": 35.45,
+        "atomic-mass": 35.5,
         "boil": 239.11,
         "category": Category.DIATOMIC_NONMETAL,
         "density": 3.2,
@@ -747,7 +747,7 @@ ELEMENTS_DATA = {
     "Rb": {
         "appearance": "grey white",
         "name": _("Rubidium"),
-        "atomic-mass": 85.46783,
+        "atomic-mass": 85.5,
         "boil": 961,
         "category": Category.ALKALI_METAL,
         "density": 1.532,
@@ -1442,7 +1442,7 @@ ELEMENTS_DATA = {
     "Hf": {
         "appearance": "steel gray",
         "name": _("Hafnium"),
-        "atomic-mass": 178.492,
+        "atomic-mass": 178.5,
         "boil": 4876,
         "category": Category.TRANSITION_METAL,
         "density": 13.31,
@@ -2055,7 +2055,7 @@ ELEMENTS_DATA = {
     },
     "Lr": {
         "name": _("Lawrencium"),
-        "atomic-mass": 266,
+        "atomic-mass": 262,
         "boil": None,
         "category": Category.ACTINIDE,
         "density": None,
@@ -2074,7 +2074,7 @@ ELEMENTS_DATA = {
     },
     "Rf": {
         "name": _("Rutherfordium"),
-        "atomic-mass": 267,
+        "atomic-mass": 261,
         "boil": 5800,
         "category": Category.TRANSITION_METAL,
         "density": 23.2,
@@ -2093,7 +2093,7 @@ ELEMENTS_DATA = {
     },
     "Db": {
         "name": _("Dubnium"),
-        "atomic-mass": 268,
+        "atomic-mass": 262,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 29.3,
@@ -2112,7 +2112,7 @@ ELEMENTS_DATA = {
     },
     "Sg": {
         "name": _("Seaborgium"),
-        "atomic-mass": 269,
+        "atomic-mass": 263,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 35.0,
@@ -2131,7 +2131,7 @@ ELEMENTS_DATA = {
     },
     "Bh": {
         "name": _("Bohrium"),
-        "atomic-mass": 270,
+        "atomic-mass": 262,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 37.1,
@@ -2150,7 +2150,7 @@ ELEMENTS_DATA = {
     },
     "Hs": {
         "name": _("Hassium"),
-        "atomic-mass": 269,
+        "atomic-mass": 265,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 40.7,
@@ -2169,7 +2169,7 @@ ELEMENTS_DATA = {
     },
     "Mt": {
         "name": _("Meitnerium"),
-        "atomic-mass": 278,
+        "atomic-mass": 266,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 37.4,
@@ -2188,7 +2188,7 @@ ELEMENTS_DATA = {
     },
     "Ds": {
         "name": _("Darmstadtium"),
-        "atomic-mass": 281,
+        "atomic-mass": 269,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 34.8,
@@ -2207,7 +2207,7 @@ ELEMENTS_DATA = {
     },
     "Rg": {
         "name": _("Roentgenium"),
-        "atomic-mass": 282,
+        "atomic-mass": 272,
         "boil": None,
         "category": Category.TRANSITION_METAL,
         "density": 28.7,
@@ -2245,7 +2245,7 @@ ELEMENTS_DATA = {
     },
     "Nh": {
         "name": _("Nihonium"),
-        "atomic-mass": 286,
+        "atomic-mass": 284,
         "boil": 1430,
         "category": Category.SYNTHETIC,
         "density": 16,
@@ -2264,7 +2264,7 @@ ELEMENTS_DATA = {
     },
     "Fl": {
         "name": _("Flerovium"),
-        "atomic-mass": 289,
+        "atomic-mass": 285,
         "boil": 420,
         "category": Category.UNKNOWN,
         "density": 14,
@@ -2283,7 +2283,7 @@ ELEMENTS_DATA = {
     },
     "Mc": {
         "name": _("Moscovium"),
-        "atomic-mass": 289,
+        "atomic-mass": 288,
         "boil": 1400,
         "category": Category.SYNTHETIC,
         "density": 13.5,
