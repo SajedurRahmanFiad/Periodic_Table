@@ -53,7 +53,7 @@ def GenerateQuizFromSymbol():  # A function to generate a random quiz from symbo
             print("   Congrats!")
             score += 1  # Increase score by 1
         else:
-            print("   Failed!....Correct Answer is " + str(list(Name.values())[list(Name.keys()).index(ques_symb)]))
+            print("   Failed!....Correct Answer is " + str(list(Name.keys())[list(Name.values()).index(ques_name)]))
 
 
 
